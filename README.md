@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Public Page
+## Public Page
 
 Go to: https://beamish-seahorse-650dfc.netlify.app/
 
